@@ -1,19 +1,22 @@
-### [Foobar](https://foobar.com)
-
-#### Install using Git
-
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
-
-```bash
-git clone https://github.com/dracula/foobar.git
-```
+### [Rime](https://rime.im/)
 
 #### Install manually
 
-Download using the [GitHub `.zip` download](https://github.com/dracula/foobar/archive/master.zip) option and unzip them.
+##### MacOS
+
+Download [squirrel.custom.yaml](./squirrel.custom.yaml) and merge it with the `squirrel.custom.yaml`
+
+##### Windows
+
+Download [weasel.custom.yaml](./weasel.custom.yaml) and merge it with the `weasel.custom.yaml`
+
+> If you want to adapt to the system's appearance, you should set it up like this.
+```yaml
+patch:
+  style/color_scheme: dracula_light # or any light theme you like
+  style/color_scheme_dark: dracula
+```
 
 #### Activating theme
 
-1. Do this;
-2. Then that;
-3. Boom! It's working ✨
+Redeploy your rime.

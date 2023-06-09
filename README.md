@@ -1,12 +1,12 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [Rime](https://rime.im/)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [Rime](https://rime.im/).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+All instructions can be found at [draculatheme.com/rime](https://draculatheme.com/rime).
 
 ## Team
 
