@@ -14,7 +14,7 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 
 | [![shlroland](https://github.com/shlroland.png?size=100)](https://github.com/shlroland) |
 | ------------------------------------------------------------------------------------------------------------ |
-| [haoliang shen](https://github.com/shlroland)                                                   |
+| [shlroland](https://github.com/shlroland)                                                   |
 
 ## Community
 
